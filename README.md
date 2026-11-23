@@ -3,6 +3,12 @@
 A tiny browser game built from one prompt, for the make.fun bounty
 *"The agent builds a game from one prompt"*.
 
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/rivardoad9-source/context-window/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/rivardoad9-source/context-window/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+
+Bounty page: <https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709>
+
 You are the cursor inside a chat window. Cyan **context tokens** drift in —
 collect them to score and to refill your context bar. Magenta **hallucination
 blobs** chase you and burn context on contact. When the context bar empties the
